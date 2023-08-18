@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on mpc and wbc of legged robots
+- 🔭 I’m currently working on MPC and WBC of H* robot
 - 📫 How to reach me: matheecs[at]qq[dot]com
 
 ### My Tools
