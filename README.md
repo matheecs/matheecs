@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on model predictive **control** and whole-body **control** of humanoid robot
+- 🔭 I’m currently working on MPC of humanoid robot
 - 📫 How to reach me: matheecs[at]qq[dot]com
 
 ### My Tools
