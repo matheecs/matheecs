@@ -6,6 +6,6 @@
 [![Lieλ's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheecs)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://img.shields.io/badge/code-C++|Python|CMake|CUDA|PyTorch-red)
-![](https://img.shields.io/badge/call-Pinocchio|CasADi|MeshCat|Drake|Chebfun|MPOPT-green)
-![](https://img.shields.io/badge/love-Ann|Reading|Drawing|Design|Math|Physics-blue)
+![](https://img.shields.io/badge/call-Pinocchio|CasADi|MeshCat|Drake|Chebfun-green)
+![](https://img.shields.io/badge/love-Ann|Reading|Drawing|Math|Physics-blue)
 </div>
