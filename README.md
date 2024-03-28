@@ -8,6 +8,4 @@
 ![](https://img.shields.io/badge/code-C++|Python|CMake-red)
 ![](https://img.shields.io/badge/tool-Pinocchio|CasADi|MeshCat|Drake-green)
 ![](https://img.shields.io/badge/love-Ann|Reading|Design|Math|Physics-blue)
-
-<img src="https://github.com/matheecs.png" alt="drawing" width="10%"/>
 </div>
