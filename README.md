@@ -1,4 +1,7 @@
 <div id="title" align=center>
+<p align="center">
+  <img src="https://github.com/matheecs/matheecs/assets/16047052/30d40ba6-3812-4518-8207-a71345bf5037" width="33%" />
+</p>
 🔭I’m working on behavior design of humanoid robot.
 
 📫How to reach me: matheecs[at]qq[dot]com.
@@ -9,7 +12,3 @@
 ![](https://img.shields.io/badge/code-C++|Python|Warp-red)
 ![](https://img.shields.io/badge/tool-Pin3|CasADi|MeshCat-green)
 </div>
-
-<p align="center">
-  <img src="https://github.com/matheecs/matheecs/assets/16047052/30d40ba6-3812-4518-8207-a71345bf5037" width="50%" />
-</p>
