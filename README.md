@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/matheecs/matheecs/assets/16047052/30d40ba6-3812-4518-8207-a71345bf5037" width="33%" />
 </p>
-🔭I’m working on behavior design of humanoid robot.
+🔭I’m working on Behavior Design & Simulation for Robot/Character.
 
 📫How to reach me: matheecs[at]qq[dot]com.
 
