@@ -12,5 +12,5 @@
 ![](https://img.shields.io/badge/code-C++|Python|JAX-red)
 ![](https://img.shields.io/badge/tool-Pin3|CasADi|MeshCat-green)
 
-![](https://img.shields.io/badge/hack-Blender|OpenSCAD|NumPy|pandas|Jupyter|Choreonoid|Pybricks|LEGO|MuJoCo|MJX|VS Code|Firefox-yellow)
+![](https://img.shields.io/badge/hack-Blender|OpenSCAD|NumPy|pandas|Jupyter|Choreonoid|Pybricks|LEGO|MuJoCo|MJX|VSCode|Firefox-yellow)
 </div>
