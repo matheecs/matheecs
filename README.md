@@ -13,4 +13,6 @@
 ![](https://img.shields.io/badge/tool-Pin3|CasADi|MeshCat-green)
 
 ![](https://img.shields.io/badge/hack-Rerun|Blender|Pybricks|MuJoCo|VSCode|Firefox|Arch-yellow)
+
+![](https://img.shields.io/badge/原則-可視化|可組合|最優化-black)
 </div>
