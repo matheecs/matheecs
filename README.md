@@ -14,5 +14,5 @@
 
 ![](https://img.shields.io/badge/hack-Rerun|Blender|Pybricks|MuJoCo|VSCode|Firefox|Arch|Wine|TouchOSC-yellow)
 
-![](https://img.shields.io/badge/原則-可視化|可組合|最優化-black)
+![](https://img.shields.io/badge/原則-可視化|可組合|最優化Scaling&Smoothing-black)
 </div>
