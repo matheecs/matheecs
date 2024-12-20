@@ -4,7 +4,7 @@
 </p>
 🔭I’m working on Behavior Design & Simulation for Robot/Character.
 
-📫How to reach me: matheecs[at]qq[dot]com.
+📫How to reach me: matheecs[at]stu[dot]xjtu[dot]edu[dot]cn.
 
 [![Lieλ's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheecs)](https://github.com/anuraghazra/github-readme-stats)
 
