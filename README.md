@@ -10,9 +10,9 @@
 
 ![](https://img.shields.io/badge/love-Ann|Reading|Drawing-blue)
 ![](https://img.shields.io/badge/code-C++|Python|JAX-red)
-![](https://img.shields.io/badge/tool-Pin3|CasADi|MeshCat-green)
+![](https://img.shields.io/badge/tool-Pin3|CasADi|Rerun-green)
 
-![](https://img.shields.io/badge/hack-Rerun|Blender|Pybricks|MuJoCo|VSCode|Firefox|Arch|Wine|TouchOSC|FFmpeg-yellow)
+![](https://img.shields.io/badge/hack-Modelica|Blender|Pybricks|MuJoCo|VSCode|Firefox|Arch|Wine|TouchOSC|FFmpeg-yellow)
 
 ![](https://img.shields.io/badge/原則-可視化|可組合|最優化{Scaling,Smoothing,Sparsity}-black)
 </div>
