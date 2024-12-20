@@ -3,7 +3,7 @@
   <img src="https://github.com/matheecs/matheecs/assets/16047052/30d40ba6-3812-4518-8207-a71345bf5037" width="33%" />
 </p>
 
-I’m working on Behavior Design & Simulation for Robot/Character.
+I’m working on Behavior Design & Simulation for Robots.
 
 How to reach me: matheecs[at]stu[dot]xjtu[dot]edu[dot]cn.
 
