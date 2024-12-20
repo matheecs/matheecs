@@ -6,6 +6,8 @@
 
 📫How to reach me: matheecs[at]stu[dot]xjtu[dot]edu[dot]cn.
 
+Recently interested in: IDTO+DCOL;MotionMatching;Modelica;Raylib
+
 [![Lieλ's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheecs)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://img.shields.io/badge/love-Ann|Reading|Drawing-blue)
