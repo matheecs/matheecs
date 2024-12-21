@@ -1,7 +1,11 @@
 <div id="title" align=center>
 <p align="center">
-  <img src="https://github.com/matheecs/matheecs/assets/16047052/30d40ba6-3812-4518-8207-a71345bf5037" width="33%" />
+  <img src="https://github.com/matheecs/matheecs/assets/16047052/30d40ba6-3812-4518-8207-a71345bf5037" width="100%"/>
 </p>
+
+<div>
+  <video src='https://github.com/user-attachments/assets/9026c09f-f5a7-4cdd-8417-100218455ded'/>
+</div>
 
 I’m working on Behavior Design & Simulation for Robots.
 
