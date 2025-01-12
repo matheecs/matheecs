@@ -1,21 +1,31 @@
-<div id="title" align=center>
-<p align="center">
-  <img src="https://github.com/matheecs/matheecs/assets/16047052/30d40ba6-3812-4518-8207-a71345bf5037" width="45%"/>
-</p>
+<div id="title" align="center">
+  <p>
+    <img src="https://github.com/matheecs/matheecs/assets/16047052/30d40ba6-3812-4518-8207-a71345bf5037" width="45%" alt="Profile Banner"/>
+  </p>
+  <h2>Behavior Design & Simulation for Robots</h2>
+  <p>📫 How to reach me: <code>matheecs[at]stu[dot]xjtu[dot]edu[dot]cn</code></p>
+</div>
 
-I’m working on Behavior Design & Simulation for Robots.
+---
 
-How to reach me: matheecs[at]stu[dot]xjtu[dot]edu[dot]cn.
+### Interests
+- **PnC**: IDTO + DCOL; Motion Matching + DRecon
+- **Modeling & Simulation**: Siconos, Modelica
 
-Recently interested in PnC(idto+dcol;motion matching+drecon), Modeling&Simulation(siconos+modelica)
+### Skills & Tools
+- 💙 **Love**: Ann, Reading, Drawing
+- 🔧 **Code**: C++, Python, JAX
+- 🛠️ **Tools**: Pin3, CasADi, Rerun
 
-[![Lieλ's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheecs)](https://github.com/anuraghazra/github-readme-stats)
+### Principles
+- 可視化 (Visualization)
+- 可組合 (Composability)
+- 最優化 (Optimization: Scaling, Smoothing, Sparsity)
 
-![](https://img.shields.io/badge/love-Ann|Reading|Drawing-blue)
-![](https://img.shields.io/badge/code-C++|Python|JAX-red)
-![](https://img.shields.io/badge/tool-Pin3|CasADi|Rerun-green)
+---
 
-![](https://img.shields.io/badge/hack-Modelica|Blender|Pybricks|VSCode|Arch|TouchOSC-yellow)
-
-![](https://img.shields.io/badge/原則-可視化|可組合|最優化{Scaling,Smoothing,Sparsity}-black)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=matheecs&show_icons=true&theme=transparent" alt="GitHub Stats"/>
+  </a>
 </div>
