@@ -1,31 +1,24 @@
-<div id="title" align="center">
+<div id="title" align="center" style="font-family: 'Inter', sans-serif; color: #333;">
   <p>
-    <img src="https://github.com/matheecs/matheecs/assets/16047052/30d40ba6-3812-4518-8207-a71345bf5037" width="45%" alt="Profile Banner"/>
+    <img src="https://github.com/matheecs/matheecs/assets/16047052/30d40ba6-3812-4518-8207-a71345bf5037" alt="Profile Banner" style="width: 100%; max-width: 800px; border-radius: 8px;"/>
   </p>
-  <h2>Behavior Design & Simulation for Robots</h2>
-  <p>📫 How to reach me: <code>matheecs[at]stu[dot]xjtu[dot]edu[dot]cn</code></p>
+  <h2 style="margin: 10px 0; font-size: 24px; font-weight: 600;">Behavior Design & Simulation for Robots</h2>
+  <p style="font-size: 16px; color: #555; margin: 0;">
+    📫 <strong>Reach me at:</strong> <code>matheecs[at]stu[dot]xjtu[dot]edu[dot]cn</code>
+  </p>
 </div>
 
----
+<div id="content" style="font-family: 'Inter', sans-serif; max-width: 800px; margin: 0 auto; color: #333; line-height: 1.8;">
+  <h3 style="font-size: 20px; font-weight: 600; margin-bottom: 10px;">🎯 Interests</h3>
+  <ul style="padding-left: 20px; margin: 0;">
+    <li><strong>PnC:</strong> IDTO + DCOL; Motion Matching + DRecon</li>
+    <li><strong>Modeling & Simulation:</strong> Siconos, Modelica</li>
+  </ul>
 
-### Interests
-- **PnC**: IDTO + DCOL; Motion Matching + DRecon
-- **Modeling & Simulation**: Siconos, Modelica
-
-### Skills & Tools
-- 💙 **Love**: Ann, Reading, Drawing
-- 🔧 **Code**: C++, Python, JAX
-- 🛠️ **Tools**: Pin3, CasADi, Rerun
-
-### Principles
-- 可視化 (Visualization)
-- 可組合 (Composability)
-- 最優化 (Optimization: Scaling, Smoothing, Sparsity)
-
----
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=matheecs&show_icons=true&theme=transparent" alt="GitHub Stats"/>
-  </a>
+  <h3 style="font-size: 20px; font-weight: 600; margin-top: 20px; margin-bottom: 10px;">🌟 Principles</h3>
+  <ul style="padding-left: 20px; margin: 0;">
+    <li><strong>可視化 (Visualization)</strong></li>
+    <li><strong>可組合 (Composability)</strong></li>
+    <li><strong>最優化 (Optimization)</strong></li>
+  </ul>
 </div>
