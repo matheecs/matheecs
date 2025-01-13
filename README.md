@@ -11,14 +11,14 @@
 <div id="content" style="font-family: 'Inter', sans-serif; max-width: 800px; margin: 0 auto; color: #333; line-height: 1.8;">
   <h3 style="font-size: 20px; font-weight: 600; margin-bottom: 10px;">🎯 Interests</h3>
   <ul style="padding-left: 20px; margin: 0;">
-    <li><strong>PnC:</strong> IDTO + DCOL; Motion Matching + DRecon</li>
-    <li><strong>Modeling & Simulation:</strong> Siconos, Modelica</li>
+    <li><strong>PnC:</strong> IDTO + DCOL + SMPL; Motion Matching + DRecon</li>
+    <li><strong>Nonsmooth Modeling & Simulation:</strong> Siconos, Modelica</li>
   </ul>
 
   <h3 style="font-size: 20px; font-weight: 600; margin-top: 20px; margin-bottom: 10px;">🌟 Principles</h3>
   <ul style="padding-left: 20px; margin: 0;">
     <li><strong>可視化 (Visualization)</strong></li>
-    <li><strong>可組合 (Composability)</strong></li>
+    <li><strong>可組合 (Composition)</strong></li>
     <li><strong>最優化 (Optimization)</strong></li>
   </ul>
 </div>
