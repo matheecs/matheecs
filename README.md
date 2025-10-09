@@ -31,3 +31,5 @@ cmake -Bbuild -GNinja \
     -DCMAKE_C_COMPILER_LAUNCHER=ccache \
     -DCMAKE_CXX_COMPILER_LAUNCHER=ccache
 ```
+
+Follow your heart and Do what you love
