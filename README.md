@@ -11,7 +11,7 @@
 <div id="content" style="font-family: 'Inter', sans-serif; max-width: 800px; margin: 0 auto; color: #333; line-height: 1.8;">
   <h3 style="font-size: 20px; font-weight: 600; margin-bottom: 10px;">Interests</h3>
   <ul style="padding-left: 20px; margin: 0;">
-    <li><strong>Behavior Design</strong>: Motion Matching, Retargeting</li>
+    <li><strong>Behavior Design</strong>: Motion Matching, Retargeting using Blender, Rerun, MeshCat with Python</li>
     <li><strong>Simulation</strong>: Modelica, MJWarp, PhysX, IPC</li>
     <li><strong>Geometry</strong>: Gravitation, Variations</li>
   </ul>
