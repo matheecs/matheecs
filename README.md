@@ -11,9 +11,10 @@
 <div id="content" style="font-family: 'Inter', sans-serif; max-width: 800px; margin: 0 auto; color: #333; line-height: 1.8;">
   <h3 style="font-size: 20px; font-weight: 600; margin-bottom: 10px;">Interests</h3>
   <ul style="padding-left: 20px; margin: 0;">
-    <li><strong>Behavior Design</strong>: Motion Matching, Retargeting using Blender, Rerun, MeshCat with Python</li>
+    <li><strong>Behavior Design</strong>: Motion Matching & Retargeting</li>
     <li><strong>Simulation</strong>: Modelica, MJWarp, PhysX, IPC</li>
     <li><strong>Geometry</strong>: Gravitation, Variations</li>
+    <li><strong>ToolBox</strong>: Blender, Rerun, MeshCat, CasADi, PyTorch, Warp, NumPy, Pinocchio</li>
   </ul>
 
   <p style="font-size: 16px; color: #555; margin: 0;">Principles = Visualization + Optimization + Composition</p>
