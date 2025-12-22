@@ -29,4 +29,4 @@ cmake -Bbuild -GNinja \
     -DCMAKE_CXX_COMPILER_LAUNCHER=ccache
 ```
 
-Follow your heart and Do what you love
+follow your heart and do what you love.
