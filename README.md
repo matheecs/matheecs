@@ -14,10 +14,10 @@
     <li><strong>behavior design</strong>: motion matching & retargeting</li>
     <li><strong>simulation</strong>: modelica, mjwarp, physx, ipc</li>
     <li><strong>geometry</strong>: gravitation, variations</li>
-    <li><strong>toolbox</strong>: blender, rerun, meshcat, casadi, torch, warp, numpy, pinocchio, endeavour(arch+kde+fish+vscode)</li>
+    <li><strong>toolbox</strong>: blender, rerun, casadi, torch, warp, numpy, pinocchio, endeavouros(arch⊕kde⊕fish⊕vscode)</li>
   </ul>
 
-  <p style="font-size: 16px; color: #555; margin: 0;">method = visualization + optimization + modeling</p>
+  <p style="font-size: 16px; color: #555; margin: 0;">method = modeling ⊕ visualization ⊕ optimization</p>
 </div>
 
 ```shell
