@@ -12,7 +12,7 @@
   <p style="font-size: 16px; font-weight: 600; margin-bottom: 10px;">interests</p>
   <ul style="padding-left: 16px; margin: 0;">
     <li><strong>behavior design</strong>: motion matching & retargeting</li>
-    <li><strong>simulation</strong>: modelica, mjwarp, physx, ipc</li>
+    <li><strong>simulation</strong>: modelica, mujoco, newton, libuipc</li>
     <li><strong>geometry</strong>: gravitation, variations</li>
     <li><strong>toolbox</strong>: blender, rerun, casadi, torch, warp, numpy, pinocchio, endeavouros(arch⊕kde⊕fish⊕vscode)</li>
   </ul>
